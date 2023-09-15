@@ -13,9 +13,9 @@
 
 ![스크린샷(32)](https://github.com/PM950704/Web-Programming/assets/127920204/5341ccba-8c37-4f8d-bb2a-4b60f7db5423)
 
-3>3번문제</h3><br>
+<h3>3번문제</h3><br>
 
-<h![스크린샷(32)](https://github.com/PM950704/Web-Programming/assets/127920204/dc706c09-9da2-4391-a59e-5636340a82a3)
+![스크린샷(32)](https://github.com/PM950704/Web-Programming/assets/127920204/dc706c09-9da2-4391-a59e-5636340a82a3)
 
 <h3>4번문제</h3><br>
 
