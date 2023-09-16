@@ -2,7 +2,8 @@
 
 ![스크린샷(30)](https://github.com/PM950704/Web-Programming/assets/127920204/161680cd-4ab6-4387-8031-fd8c29663b5a)<br>
 
-
+&lt;table&gt; 안에 &lt;caption&gt;으로 설명을 적어준 뒤 &lt;tbody&gt; &lt;td&gt; 안에
+&lt;img&&gt;를 이용해서 제 사진을 띄웠습니다.
 
 <h3>2번문제</h3><br>
 <h4>2-1</h4>
@@ -18,7 +19,8 @@
 
 <h3>3번문제</h3><br>
 
-![스크린샷(32)](https://github.com/PM950704/Web-Programming/assets/127920204/dc706c09-9da2-4391-a59e-5636340a82a3)
+![스크린샷(43)](https://github.com/PM950704/Web-Programming/assets/127920204/2fc07c2d-6b54-4e46-bfda-4c849286767a)
+
 
 &lt;table&gt; 태그 안에서 &lt;caption&gt; 값을 주고 &lt;tbody&gt;안에 데이터를 담는 &lt;td&gt; &lt;img&gt;를 이용해서 사진을 출렸했습니다.<br>
 
@@ -50,6 +52,7 @@
 <br>
 
 5번 문제와 비슷하지만 &lt;iframe&gt;을 이용해 오른쪽 프레임에서 열릴 수 있도록 코드를 수정해보았습니다.
+하지만 iframe은 https:// 로 접근 할 경우에는 해당 웹페이지에서 거부하기 때문에 사용을 지양하는게 좋을 것 같습니다.
 
 <h3>7번문제</h3><br>
 
@@ -59,6 +62,12 @@
 
 
 <h3>8번문제</h3><br>
+
+![스크린샷(44)](https://github.com/PM950704/Web-Programming/assets/127920204/8b6d1457-801c-4d89-942b-7cf0c3fd1fa2)
+
+video태그를 이용하여 비디오 파일이 있는 위치를 값으로 부여하여 video를 띄웠습니다.
+하지만 git hub pages에서는 video를 지원하지 않아서 파일이 깨집니다.
+이를 해결하기 위해 gif로 변경해 보았지만 이 또한 깨지네요.
 
 
 
