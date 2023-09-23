@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>:hover 활용</title>
+    <style>
+      div {
+        height: 300px;
+        width: 200px;
+        background-image: url(media/back.png);
+        background-size: 200px 300px;
+      }
+      div#card:hover {
+        background-image: url(media/spade.png);
+      }
+    </style>
+  </head>
+  <body>
+    <h3>:hover 활용</h3>
+    <hr />
+    <table>
+      <tr>
+        <td>마우스를 올리면 카드의 앞면이 보인다.</td>
+        <td><div id="card"></div></td>
+      </tr>
+    </table>
+  </body>
+</html>

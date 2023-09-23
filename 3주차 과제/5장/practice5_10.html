@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>애니메이션 응용</title>
+    <style>
+      @keyframes right {
+        0% {
+          margin-left: 100%;
+        }
+        100% {
+          margin-left: 0%;
+        }
+      }
+      div {
+        animation-name: right;
+        animation-duration: 3s;
+        animation-iteration-count: 1;
+      }
+      img {
+        width: 15px;
+        height: 15px;
+        background-color: skyblue;
+      }
+    </style>
+  </head>
+  <body>
+    <h3>애니메이션 응용</h3>
+    <hr />
+    <div><img src="media/question.png" alt="물음표" />질문 있습니다.</div>
+  </body>
+</html>

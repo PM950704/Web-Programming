@@ -1,0 +1,34 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+section h3 {
+  color: blue;
+  text-decoration: underline blue;
+}
+header {
+  background: yellow;
+  width: 100%;
+  height: 28%;
+  float: left;
+}
+nav {
+  display: inline-block;
+  background-color: orange;
+  width: 10%;
+  height: 90%;
+}
+section {
+  background-color: lightblue;
+  width: 90%;
+  height: 90%;
+  float: right;
+}
+footer {
+  background-color: violet;
+  width: 100%;
+  height: 12%;
+  float: left;
+}
