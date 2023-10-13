@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>16개의 랜덤한 색 만들기</title>
+    <style>
+      div {
+        display: inline-block;
+        width: 150px;
+        padding: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h3>16개의 랜덤한 색 만들기</h3>
+    <hr />
+    <script>
+      let first = [];
+      let second = [];
+      let third = [];
+      var one;
+      var two;
+      var three;
+      let rgb = [];
+      for (var i = 0; i < 16; i++) {
+        one = Math.random() * 255 + 1;
+        two = Math.random() * 255 + 1;
+        three = Math.random() * 255 + 1;
+        first[i] = Math.floor(one);
+        second[i] = Math.floor(two);
+        third[i] = Math.floor(three);
+        rgb[i] = 'rgb(' + first[i] + ',' + second[i] + ',' + third[i] + ')';
+      }
+      for (i = 0; i < first.length; i++) {
+        var str = "<div style='background-color: ";
+        str += rgb[i];
+        str += "'>" + rgb[i] + '</div>';
+        document.write(str);
+      }
+    </script>
+  </body>
+</html>
