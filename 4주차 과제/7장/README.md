@@ -71,4 +71,4 @@ rgb에 쓰일 변수 3개를 random() * 255 + 1을 이용해 저장한 뒤 반�
 
 ![스크린샷(114)](https://github.com/PM950704/Web-Programming/assets/127920204/8469be2d-3d1d-41e5-8a3a-948b44f7d20e)<br>
 
-prompt로 받은 문자열을 ,를 기준으로 split해주고   
+prompt로 받은 문자열을 ,를 기준으로 split해주고 객체에 담아주고 출력해준다.
