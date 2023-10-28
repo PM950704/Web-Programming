@@ -22,35 +22,41 @@
 
 <h3>3번 문제</h3><br>
 
-![스크린샷 2023-10-28 234926](https://github.com/PM950704/Web-Programming/assets/127920204/daab12f8-fbf9-4885-befc-6bb447a6d7e0)
+![스크린샷 2023-10-28 234926](https://github.com/PM950704/Web-Programming/assets/127920204/daab12f8-fbf9-4885-befc-6bb447a6d7e0)<br>
 
 
 
 <h3>4번 문제</h3><br>
 
-![스크린샷 2023-10-28 234939](https://github.com/PM950704/Web-Programming/assets/127920204/78f3dc04-3cff-4fd7-81ad-72d0affb7014)
+![스크린샷 2023-10-28 234939](https://github.com/PM950704/Web-Programming/assets/127920204/78f3dc04-3cff-4fd7-81ad-72d0affb7014)<br>
 
 
 <h3>5번 문제</h3><br>
 
-![스크린샷 2023-10-28 235011](https://github.com/PM950704/Web-Programming/assets/127920204/9248ac06-bbba-4132-8f02-1c75054e9150)
+![스크린샷 2023-10-28 235011](https://github.com/PM950704/Web-Programming/assets/127920204/9248ac06-bbba-4132-8f02-1c75054e9150)<br>
 
 
 <h3>6번 문제</h3><br>
 
-![스크린샷 2023-10-28 235024](https://github.com/PM950704/Web-Programming/assets/127920204/ab0f0538-30b1-48d3-a711-d0ac5b4058a4)
-![스크린샷 2023-10-28 235032](https://github.com/PM950704/Web-Programming/assets/127920204/a305a12c-ad7d-49fd-a10e-203d354eee66)
+![스크린샷 2023-10-28 235024](https://github.com/PM950704/Web-Programming/assets/127920204/ab0f0538-30b1-48d3-a711-d0ac5b4058a4)<br>
+![스크린샷 2023-10-28 235032](https://github.com/PM950704/Web-Programming/assets/127920204/a305a12c-ad7d-49fd-a10e-203d354eee66)<br>
 
 
 
 <h3>7번 문제</h3><br>
 
-![스크린샷 2023-10-28 235046](https://github.com/PM950704/Web-Programming/assets/127920204/321d44ff-e0df-48f8-b45c-fd6ae04dd311)
-
-
+![스크린샷 2023-10-28 235853](https://github.com/PM950704/Web-Programming/assets/127920204/ab8eedc8-e648-48bb-8b5e-f940ed35708b)<br>
 
 <h3>8번 문제</h3><br>
 
+![스크린샷 2023-10-28 235046](https://github.com/PM950704/Web-Programming/assets/127920204/6226cf0a-cd36-4306-8f9e-ca3298a6f013)<br>
+
 
 <h3>9번 문제</h3><br>
+
+![스크린샷 2023-10-28 235053](https://github.com/PM950704/Web-Programming/assets/127920204/34038405-c415-40bf-b9fe-9e2bdebdca01)<br>
+
 <h3>10번 문제</h3><br>
+
+![스크린샷 2023-10-28 235111](https://github.com/PM950704/Web-Programming/assets/127920204/c00ba5fc-de43-472b-99d1-888087ac77e7)<br>
+
