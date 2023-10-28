@@ -2,7 +2,7 @@
 <nav>
   <ul>
     <li><a href="#open_challenge">open_challenge</a></li>
-    <li><a href="#1">1번 문제</a></li>
+    <li><a href="#1번">1번 문제</a></li>
     <li><a href="#2">2번 문제</a></li>
     <li><a href="#3">3번 문제</a></li>
     <li><a href="#4">4번 문제</a></li>
@@ -20,7 +20,7 @@
 ![스크린샷 2023-10-28 234751](https://github.com/PM950704/Web-Programming/assets/127920204/02a41a90-d03c-43a3-9c81-de97fe17cfc1)<br>
 ![스크린샷 2023-10-28 234802](https://github.com/PM950704/Web-Programming/assets/127920204/9150e156-59e7-41b6-8155-dcc4d88fb4ca)<br>
 
-<h3 id="1">1번 문제</h3><br>
+<h3 id="1번">1번 문제</h3><br>
 
 ![스크린샷 2023-10-28 234834](https://github.com/PM950704/Web-Programming/assets/127920204/b4499757-b806-41c2-9b43-edd3079dda64)<br>
 ![스크린샷 2023-10-28 234842](https://github.com/PM950704/Web-Programming/assets/127920204/b9e0f4bf-2672-4e49-ad32-44d5d0721124)<br>
