@@ -1,6 +1,20 @@
 <h1>목차</h1>
+<nav>
+  <ul>
+    <li><a href="#open_challenge">open_challenge</a></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+</nav>
 
-<h3>open_challenge</h3><br>
+<h3 id="open_challenge">open_challenge</h3><br>
 
 ![스크린샷 2023-10-28 234751](https://github.com/PM950704/Web-Programming/assets/127920204/02a41a90-d03c-43a3-9c81-de97fe17cfc1)<br>
 ![스크린샷 2023-10-28 234802](https://github.com/PM950704/Web-Programming/assets/127920204/9150e156-59e7-41b6-8155-dcc4d88fb4ca)<br>
