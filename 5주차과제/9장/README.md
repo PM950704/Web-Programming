@@ -2,7 +2,7 @@
 <nav>
   <ul>
     <li><a href="#open_challenge">open_challenge</a></li>
-    <li><a href="#1번">1번 문제</a></li>
+    <li><a href=".1번">1번 문제</a></li>
     <li><a href="#2">2번 문제</a></li>
     <li><a href="#3">3번 문제</a></li>
     <li><a href="#4">4번 문제</a></li>
