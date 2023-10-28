@@ -1,19 +1,5 @@
-<h1>목차</h1>
-<nav>
-  <ul>
-    <li><a href="#open_challenge">open_challenge</a></li>
-    <li><a href="#1_">1번 문제</a></li>
-    <li><a href="#2">2번 문제</a></li>
-    <li><a href="#3">3번 문제</a></li>
-    <li><a href="#4">4번 문제</a></li>
-    <li><a href="#5">5번 문제</a></li>
-    <li><a href="#6">6번 문제</a></li>
-    <li><a href="#7">7번 문제</a></li>
-    <li><a href="#8">8번 문제</a></li>
-    <li><a href="#9">9번 문제</a></li>
-    <li><a href="#10">10번 문제</a></li>
-  </ul>
-</nav>
+<h1>9장</h1>
+
 
 <h3 id="open_challenge">open_challenge</h3><br>
 
