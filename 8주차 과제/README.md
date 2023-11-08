@@ -1,3 +1,10 @@
+<h2>실습 과제 링크</h2>
+<a href = "pm950704.dothome.co.kr/php1주차/1.php">1번 문제</a><br>
+<a href = "pm950704.dothome.co.kr/php1주차/2.php">2번 문제</a><br>
+<a href = "pm950704.dothome.co.kr/php1주차/3.php">3번 문제</a><br>
+
+<hr>
+
 <h2>1. 동적 웹 페이지와 정적 웹페이지의 차이를 설명하시오.</h2>
 <h4>정적 웹 페이지</h4>
 <p>정적 웹 페이지는 웹 서버에 이미 저장된 파일(HTML, img, Javascript 등)을 클라이언트에게 전송하는 웹페이지이다.</p>
