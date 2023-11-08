@@ -6,6 +6,8 @@
 
 [3번 과제](pm950704.dothome.co.kr/php1주차/3.php)
 
+[naver](www.naver.com)
+
   ---
 
 <h2>1. 동적 웹 페이지와 정적 웹페이지의 차이를 설명하시오.</h2>
