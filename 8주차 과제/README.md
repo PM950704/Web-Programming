@@ -1,12 +1,10 @@
 <h2>실습 과제 링크</h2>
  
-[1번 과제](http://pm950704.dothome.co.kr/php1주차/1.php)
+[1번 과제](http://pm950704.dothome.co.kr/php/week1/1.php)
 
-[2번 과제](http://pm950704.dothome.co.kr/php1주차/2.php)
+[2번 과제](http://pm950704.dothome.co.kr/php/week1/2.php)
 
-[3번 과제](http://pm950704.dothome.co.kr/php1주차/3.php)
-
-[naver](https://www.naver.com)
+[3번 과제](http://pm950704.dothome.co.kr/php/week1/3.php)
 
   ---
 
